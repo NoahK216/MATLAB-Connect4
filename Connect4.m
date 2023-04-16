@@ -21,7 +21,7 @@ AIdifficulty2 = 0;
 
 %Must draw empty board here otherwise sliders do not display properly in start screen
 drawScene(game_scene, boardToPlot(zeros([6,7]), 1))
-
+    
 %Store only the quit variable from the pause menu as the restart button does nothing on start screen
 [~, quit] = displayMenu(game_scene, zeros([6,7]), 1, false, true);
 
