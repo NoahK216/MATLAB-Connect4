@@ -1,0 +1,4 @@
+Please enjoy my game. setting player1_auto and player2_auto will determine if it is two ai player or two human players
+or any combination of the two. Player 1 moves first so if you wish to have an advantage over the AI set 1_auto to 0
+and 2_auto to 1. randWeight is effectively the AIs difficulty, it stops changing meaningfully at a value of around 20
+but is very difficult anywhere passed 6. You can also have the AI fight itself if you set both 1_auto and 2_auto to 1. Have Fun!
