@@ -2,7 +2,7 @@
 
 ![Connect 4 Gameplay](https://github.com/NoahK216/MATLAB-Connect4/blob/master/Animation.gif)
 
-This is a Connect 4 game implemented in MATLAB. The game allows players to play against each other or against an AI player. The AI player has a sliding difficulty scale that goes from 0 to 100.
+This is a Connect 4 game implemented in MATLAB. The game allows players to play against each other or against an AI player. The AI player has a sliding difficulty scale that goes from 1 to 100.
 
 # Game rules
 The game is played on a vertical board consisting of 7 columns and 6 rows. Players take turns dropping their colored discs from the top of the board. The goal of the game is to connect four discs of the same color vertically, horizontally, or diagonally. The first player to connect four discs wins the game.
