@@ -15,7 +15,6 @@ During the game setup, each player can be either human-controlled or computer-co
 
 During the game, the user can select a column to drop their disc into by clicking anywhere in the corresponding column. The game will automatically switch between the players after each turn. If the game ends in a tie, a message will be displayed indicating that the game is a draw.
 
-# Player sliders and pause menu
 The game has a pause menu that can be accessed by hitting the "escape" key. The pause menu has three buttons: "Restart", "Resume", and "Quit".
 
 This pause menu holds the two sliders that allow the user to adjust the difficulty level of each player. If both players are computer controlled, the game will be played automatically, and the user can watch the game progress without having to make any moves.
