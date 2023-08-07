@@ -1,7 +1,7 @@
 clc
 clear
 
-for(fagCount = 1:10)
+for(nikolaiCount = 1:10)
     for(wholeCount = 1:1000)
         tic()
         for(tCount = 1:1000)
@@ -32,8 +32,8 @@ for(fagCount = 1:10)
     end
 
 clc
-percent(fagCount) = mean(result)*100;
-fprintf("Nikolai was right %.0f percent of the time\n", percent(fagCount))
+percent(nikolaiCount) = mean(result)*100;
+fprintf("Nikolai was right %.0f percent of the time\n", percent(nikolaiCount))
 end
 
 figure()
